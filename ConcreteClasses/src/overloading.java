@@ -6,7 +6,7 @@ public class overloading {
 		overload();
 		overload("I am a String");
 		overload(0);
-		overload("I am a String", 1);
+		overload("I am a String +", 1);
 	}
 	
 	final private void overload() {
